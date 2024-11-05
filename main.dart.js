@@ -54204,7 +54204,7 @@ A.rY.prototype={
 ai(){return new A.H6(B.n)}}
 A.H6.prototype={
 aJ(){this.b3()
-var s=new A.Bo("lib/assets/video.mp4",B.Jb,$.aD())
+var s=new A.Bo("https://github.com/SrSeptimo/help-valencia/releases/download/release1/video.mp4",B.Jb,$.aD())
 s.fs().b6(new A.YK(this),t.P)
 this.d=s},
 L(a){var s,r,q=null,p=this.d
@@ -54596,7 +54596,7 @@ o=t.D
 n=t.b
 p.CW=new A.bq(new A.af($.a5,o),n)
 m=A.br("dataSourceDescription")
-switch(0){case 0:m.b=new A.JY(B.wV,null,p.w,null)
+switch(1){case 1:m.b=new A.JY(B.wV,p.w,null,null)
 break}s=3
 return A.S(A.fH().pk(m.aQ()),$async$fs)
 case 3:l=b
@@ -56975,7 +56975,7 @@ B.ij=new A.df(0.35,0.91,0.33,0.97)
 B.wR=new A.df(0.42,0,0.58,1)
 B.aW=new A.on(B.hS,null,null,null,null,null,null,null)
 B.wU=new A.JX(1,"latency")
-B.wV=new A.JZ(0,"asset")
+B.wV=new A.JZ(1,"network")
 B.wW=new A.os(null,null,null,null,null,null,null,null,null,null,null,null,null,null)
 B.wX=new A.ot(null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
 B.il=new A.jr(0,"uninitialized")
