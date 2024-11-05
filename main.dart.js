@@ -61030,7 +61030,7 @@ $1(a){var s=this.a
 s.al(new A.a25(s))},
 $S:10}
 A.a25.prototype={
-$0(){A.mw(A.bI(0,2000),new A.a24(this.a),t.P)},
+$0(){A.mw(A.bI(0,5000),new A.a24(this.a),t.P)},
 $S:0}
 A.a24.prototype={
 $0(){var s=this.a.d
